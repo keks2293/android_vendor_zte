@@ -61,7 +61,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx512j/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/zte/nx512j/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
     vendor/zte/nx512j/proprietary/etc/dpm/nsrm/NsrmConfiguration.xml:system/etc/dpm/nsrm/NsrmConfiguration.xml \
-    vendor/zte/nx512j/proprietary/etc/dpm/nsrm/dpm.conf:system/etc/dpm/nsrm/dpm.conf \
+    vendor/zte/nx512j/proprietary/etc/dpm/dpm.conf:system/etc/dpm/dpm.conf \
     vendor/zte/nx512j/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/zte/nx512j/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
     vendor/zte/nx512j/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
