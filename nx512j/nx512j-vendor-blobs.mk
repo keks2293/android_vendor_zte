@@ -102,8 +102,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx512j/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/zte/nx512j/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
     vendor/zte/nx512j/proprietary/etc/qca6234-service.sh:system/etc/qca6234-service.sh \
-    vendor/zte/nx512j/proprietary/etc/srs/dts.lic:system/etc/srs/dts.lic \
-    vendor/zte/nx512j/proprietary/etc/srs/srs_processing.cfg:system/etc/srs/srs_processing.cfg \
     vendor/zte/nx512j/proprietary/etc/wfdconfig.xml:system/etc/wfdconfig.xml \
     vendor/zte/nx512j/proprietary/etc/wfdconfig1280_720.xml:system/etc/wfdconfig1280_720.xml \
     vendor/zte/nx512j/proprietary/etc/wfdconfig640_480.xml:system/etc/wfdconfig640_480.xml \
