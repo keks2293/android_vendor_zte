@@ -79,7 +79,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx512j/proprietary/etc/firmware/ice40.bin:system/etc/firmware/ice40.bin \
     vendor/zte/nx512j/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/zte/nx512j/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
-    vendor/zte/nx512j/proprietary/etc/firmware/nfc_test.bin:system/etc/firmware/nfc_test.bin \
     vendor/zte/nx512j/proprietary/etc/hcidump.sh:system/etc/hcidump.sh \
     vendor/zte/nx512j/proprietary/etc/hsic.control.bt.sh:system/etc/hsic.control.bt.sh \
     vendor/zte/nx512j/proprietary/etc/init.ath3k.bt.sh:system/etc/init.ath3k.bt.sh \
